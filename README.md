@@ -38,15 +38,14 @@ Built with a focus on clean UI, smooth user experience, and practical frontend f
 - **LocalStorage** – Persistent data for history and favorites  
 
 ## 📁 Project Structure
+```
 jokeflow/
 │
 ├── index.html # Application structure
-
 ├── styles.css # Styling and responsive design
-
 ├── script.js # Core logic and API integration
-
 └── README.md # Project documentation
+```
 
 ## ⚙️ How It Works
 
